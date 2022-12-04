@@ -159,10 +159,10 @@ body {
   body{
     width: 375px;
     height: 852px;
-    bottom: 0;
   }
 
   .container {
+    left: 12px;
     top: 0;
     height: 780px;
     width: 311px;
