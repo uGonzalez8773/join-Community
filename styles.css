@@ -13,6 +13,7 @@
   --second-color: #0dc0bd;
   --third-color: #c0df33;
   --fourth-color: #9aa7be;
+  --fifth-color: #b2d12b;
 }
 
 body {
@@ -142,6 +143,10 @@ body {
   position: absolute;
   bottom: 39px;
   color: var(--white);
+}
+
+.singup:hover{
+  background: var(--fifth-color);
 }
 
 .item:nth-child(3) > p {
